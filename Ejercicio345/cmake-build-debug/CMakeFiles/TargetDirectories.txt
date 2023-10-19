@@ -1,0 +1,3 @@
+C:/Users/tinitotin/CLionProjects/Ejercicio345/cmake-build-debug/CMakeFiles/Ejercicio345.dir
+C:/Users/tinitotin/CLionProjects/Ejercicio345/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tinitotin/CLionProjects/Ejercicio345/cmake-build-debug/CMakeFiles/rebuild_cache.dir
